@@ -1,0 +1,32 @@
+_repo: In-Kedar-s-Tents_5987
+creator:
+  author:
+    agent_name: Merriman, Henry Seton
+    aliases:
+    - Merriman, H. Seton (Henry Seton)
+    - Scott, Hugh Stowell
+    birthdate: 1862
+    deathdate: 1903
+    gutenberg_agent_id: '1312'
+    url: http://www.gutenberg.org/2009/agents/1312
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Stowell_Scott
+description: To help his friend, Geoffrey Horner, a gentleman radical who has become
+  embroiled with the Chartists, evade murder charges in England, his barrister, Frederick
+  Conyngham, attracts suspicion on himself and leaves for Spain, where he becomes
+  an officer on the Royalist side in the Carlist War. Conyngham becomes immersed in
+  intrigue when what he thinks is a love letter he has agreed to deliver, turns out
+  to be a Carlist manifesto. His adventures take him to Ronda, Cuidad Real, Madrid,
+  Toledo, and beyond.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- History -- Carlist War, 1833-1840 -- Fiction'
+- !lcc 'PR'
+title: In Kedar's Tents
+url: http://www.gutenberg.org/ebooks/5987
