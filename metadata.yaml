@@ -1,5 +1,8 @@
 _repo: In-Kedar-s-Tents_5987
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 5987-h/images/coverb.jpg
 creator:
   author:
     agent_name: Merriman, Henry Seton
@@ -18,6 +21,8 @@ description: To help his friend, Geoffrey Horner, a gentleman radical who has be
   intrigue when what he thinks is a love letter he has agreed to deliver, turns out
   to be a Carlist manifesto. His adventures take him to Ronda, Cuidad Real, Madrid,
   Toledo, and beyond.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5987#In-Kedar-s-Tents
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
